@@ -9,7 +9,7 @@ Chức năng: Đăng nhập ( Login),đăng ký(register) , tìm kiếm (search)
 
 Công nghệ :MERN:
 
-Frontend: React.js,Boostrap.
+Frontend: React.js,Bootstrap.
 
 Backend: Node.js ,Express.js .
 
@@ -26,7 +26,7 @@ Functions: Login,register,search, pagination ,upload image to sell products,orde
 
 Technologies :MERN:
 
-Frontend: React.js,Boostrap.
+Frontend: React.js,Bootstrap.
 
 Backend: Node.js ,Express.js.
 
