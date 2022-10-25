@@ -1,0 +1,12 @@
+.active {
+  background-color: aqua;
+}
+
+.nav-link:hover {
+  background-color: aqua;
+}
+
+.logout:hover {
+  cursor: pointer;
+  background-color: aqua;
+}
