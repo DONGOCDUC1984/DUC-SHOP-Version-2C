@@ -11,7 +11,7 @@ Công nghệ :MERN:
 
 Frontend: React.js,Boostrap.
 
-Backend: Node .js ,Express.js .
+Backend: Node.js ,Express.js .
 
 Database: MongoDB.
 
