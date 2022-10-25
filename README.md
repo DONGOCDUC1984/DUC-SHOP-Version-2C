@@ -9,9 +9,9 @@ Chức năng: Đăng nhập ( Login),đăng ký(register) , tìm kiếm (search)
 
 Công nghệ :MERN:
 
-Frontend: React.js,Bootstrap.
+_Frontend: React.js,Bootstrap.
 
-Backend: Node.js ,Express.js .
+_Backend: Node.js ,Express.js .
 
 Database: MongoDB.
 
