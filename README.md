@@ -20,7 +20,7 @@ English:
 Introduction:
 
 DUC SHOP 2c: DUC SHOP version 2c
-is a website totally created by DO NGOC DUC ,
+is a website totally created by DO NGOC DUC alone.
 
 Functions: Login,register,search, pagination ,upload image to sell products,order product, C.R.U.D (Create , Read, Update, Delete),Admin... 
 
