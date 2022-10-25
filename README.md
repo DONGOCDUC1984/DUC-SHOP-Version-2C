@@ -13,7 +13,7 @@ _Frontend: React.js,Bootstrap.
 
 _Backend: Node.js ,Express.js .
 
-Database: MongoDB.
+_Database: MongoDB.
 
 ...................................................................
 
@@ -30,8 +30,8 @@ Functions: Login,register,search, pagination ,upload image to sell products,orde
 
 Technologies :MERN:
 
-Frontend: React.js,Bootstrap.
+_Frontend: React.js,Bootstrap.
 
-Backend: Node.js ,Express.js.
+_Backend: Node.js ,Express.js.
 
-Database: MongoDB.
+_Database: MongoDB.
