@@ -1,6 +1,6 @@
-Tiếng Việt.
+Tiếng Việt:
 
-Giới thiệu.
+Giới thiệu:
 
 DUC SHOP 2c: DUC SHOP version 2c
 Là trang web cửa hàng do ĐỖ NGỌC ĐỨC tự làm toàn bộ.
