@@ -10,7 +10,7 @@ xe giỏ hàng (cart) ,đặt hàng (order product), C.R.U.D ( thêm, đọc, s�
 
 Công nghệ :MERN:
 
-_Frontend: React.js, Bootstrap.
+_Frontend: React.js, React-Bootstrap 
 
 _Backend: Node.js , Express.js .
 
@@ -31,7 +31,7 @@ Functions: Login,register,search, pagination ,upload image to sell products,cart
 
 Technologies :MERN:
 
-_Frontend: React.js, Bootstrap.
+_Frontend: React.js, React-Bootstrap 
 
 _Backend: Node.js , Express.js.
 
